@@ -8,9 +8,7 @@ Challenge de Java Back End de Programa ONE
 Este proyecto implementa un Conversor de Monedas que utiliza la API de ExchangeRate-API para obtener tasas de cambio actualizadas. El programa permite realizar conversiones entre diferentes monedas mediante una interfaz de línea de comandos (CLI).
 
 ## 🖥️ Video del proyecto
-[![Ver demostración del Conversor de Monedas](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]
-
-*(Haz clic en la imagen para ver el video demostrativo)*
+![Vista previa del proyecto](https://github.com/CarlosRW/ConversorDeMonedaChallenge-ONE-Java-Back-end/blob/main/ConversorDeMonedaChallenge-ONE-Java-Back-endC__Users_carlos_Documents_GitHub_ConversorDeMonedaChallenge-ONE-Java-Back-endConversorApp.java2025-07-0700-57-29-ezgif.com-speed.gif?raw=true)
 
 ## 🚀 Características
 -  Conversión en tiempo real usando API externa
@@ -37,4 +35,4 @@ git clone https://github.com/CarlosRW/ConversorDeMonedaChallenge-ONE-Java-Back-e
 cd ConversorDeMonedaChallenge-ONE-Java-Back-end
 ```
 ## 📜 Licencia
-Este proyecto está bajo la licencia MIT. Ver archivo LICENSE para más detalles.
+Este proyecto está bajo la licencia MIT.
